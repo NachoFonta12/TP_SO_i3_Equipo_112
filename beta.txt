@@ -1,38 +1,32 @@
-Fontanetto Ignacio
+Fernandez Agustin
 
 Configuraci¢n IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
-   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:121f:ce01:32c2:852e:b01c:df1a
-   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:121f:ce01:f5b4:5062:2e16:efdb
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::167f:d6c5:3429:8513%13
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.43
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:557:3f57:38c0:b727:7f84:4c48
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:557:3f57:a485:909f:df1f:9436
+   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:8f9b:3c45:5558:379e
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:557:3f57:852f:e61a:4cc8:df87
+   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:852f:e61a:4cc8:df87
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7351:fe45:86fa:a027%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.238
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . : fe80::f669:42ff:fee5:7d0%13
-                                       192.168.1.1
+   Puerta de enlace predeterminada . . . . . : fe80::eebe:ddff:fea7:d190%14
+                                       192.168.0.1
 
 Adaptador de Ethernet Ethernet 2:
 
    Sufijo DNS espec¡fico para la conexi¢n. . : 
-   V¡nculo: direcci¢n IPv6 local. . . : fe80::fd2f:7f32:18c3:5b14%5
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7cc5:6126:c2f8:42f%18
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+Adaptador de Ethernet Conexi¢n de red Bluetooth 4:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
-
-Adaptador de LAN inal mbrica Conexi¢n de  rea local* 13:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
-
-Adaptador de LAN inal mbrica Wi-Fi 2:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec¡fico para la conexi¢n. . : 
+Hora: Wed Nov 20 10:27:48     2024
