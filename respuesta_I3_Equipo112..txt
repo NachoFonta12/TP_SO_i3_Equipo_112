@@ -1,0 +1,17 @@
+a- El master queda con los archivos de todas las ramas.
+b- Sí, beta pudo ver y modificar los archivos de todas las ramas.
+c- Tuve que hacer un checkout al main y usar el comando git merge [rama]. Antes de eso, usamos un git push -u origin [rama].
+
+d- El main queda con los datos de todas las ramas. Cada rama queda con sus propios archivos cargados y actualizados al nivel del main, pero no con los archivos de otras ramas.
+e- No podíamos usar el comando ifconfig porque estábamos usando Windows y tuvimos que cambiarlo por ipconfig.
+f- 1. git pull
+2. git checkout Fontanetto
+3. echo "GAMMA" >> beta.txt
+4. ipconfig >> beta.txt
+5. git push -u origin Fontanetto
+
+g. 1. git pull
+2. git checkout Fontanetto
+3. echo "Fernández Agustín" >> beta.txt
+4. ipconfig >> beta.txt
+5. git push -u origin Fontanetto
